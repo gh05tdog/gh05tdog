@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gh05tdog/gh05tdog/dist/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gh05tdog/gh05tdog/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
