@@ -47,9 +47,3 @@
 <img src="https://raw.githubusercontent.com/gh05tdog/gh05tdog/output/github-snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gh05tdog/count.svg?"  />
-</div>
-
-###
